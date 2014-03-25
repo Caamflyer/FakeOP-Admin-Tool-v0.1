@@ -1,0 +1,12 @@
+name: FakeOP
+author: Caam
+version: 1
+description: Allows Admins to fake op an annoying player.
+main: me.Caam.FakeOP.Main
+commands:
+   fop:
+     description: Fake op a player.
+     aliases: [fakeop]
+   fdeop:
+     description: Fake deop a player.
+     aliases: [fakedeop]
